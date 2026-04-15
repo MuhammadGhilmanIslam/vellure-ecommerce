@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # ✨ Vellure — Premium E-Commerce Platform
 
@@ -264,4 +264,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 **Built with ❤️ by [Muhammad Ghilman Islam](https://github.com/MuhammadGhilmanIslam)**
 
 </div>
-]]>
+
